@@ -1,0 +1,86 @@
+[
+    {   "id":1,
+        "Question":"When did the first world cup occur?",
+        "a":"1932",
+        "b":"1940",
+        "c":"1950",
+        "d":"1939",
+        "answer":"1932"
+    },
+    {   "id":2,
+        "Question":"Who is the current coach for Chelsea?",
+        "a":"Mourinho",
+        "b":"Lampard",
+        "c":"Pep",
+        "d":"Pele",
+        "answer":"Lampard"
+    },
+    {
+        "id":3,
+        "Question":"Which country has won many World Cup Trophies?",
+        "a":"Italy",
+        "b":"German",
+        "c":"Brazil",
+        "d":"France",
+        "answer":"Italy"
+    },
+    {   "id":4,
+        "Question":"Which is the capital city of Morrocco?",
+        "a":"Djamena",
+        "b":"Niamey",
+        "c":"Rabat",
+        "d":"Casablanca",
+        "answer":"Rabat"
+    },
+    {   "id":5,
+        "Question":"Which is the capital city of Spain?",
+        "a":"Barcelona",
+        "b":"Madrid",
+        "c":"Lisbon",
+        "d":"Rome",
+        "answer":"Madrid"
+    },
+    {
+        "id":6,
+        "Question":"Who scored the wining goal in the 2010 World Cup at the finals?",
+        "a":"Morata",
+        "b":"Villa",
+        "c":"Fabregas",
+        "d":"Iniesta",
+        "answer":"Iniesta"
+    },
+    {
+        "id":7,
+        "Question":"Who discovered the force of gravity?",
+        "a":"Einstein",
+        "b":"Newton",
+        "c":"Byles",
+        "d":"Charlse",
+        "answer":"Newton"
+    },
+    {   "id":8,
+        "Question":"Who was the father of Jacob in the Bible?",
+        "a":"Abraham",
+        "b":"Isaac",
+        "c":"Lot",
+        "d":"David",
+        "answer":"Isaac"
+    },
+    {   "id":9,
+        "Question":"How many verses are there in the Holy Bible?",
+        "a":"16,345",
+        "b":"20,300",
+        "c":"31,102",
+        "d":"21,349",
+        "answer":"31,102"
+    },
+    {
+        "id":10,
+        "Question":"How many people enter the Ark in the Bible?",
+        "a":"5",
+        "b":"6",
+        "c":"2",
+        "d":"7",
+        "answer":"7"
+    }
+]

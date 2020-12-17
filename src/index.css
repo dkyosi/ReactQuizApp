@@ -11,3 +11,51 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.question-card{
+  padding: 10px;
+  margin-top: 5px;
+}
+
+.question-card:hover{
+  background-color: whitesmoke;
+}
+
+.select-button{
+  background-color: green;
+  border: none;
+  padding: 4px 10px 4px 10px;
+  width: 80px;
+  margin-left: 200px;
+  color: white;
+}
+
+.correct{
+  background-color: rgb(181, 252, 181);
+  pointer-events:none;
+}
+
+.wrong{
+  background-color:rgb(245, 155, 155);
+  pointer-events:none;
+}
+.top-div{
+  background: rgb(21, 34, 80);
+  top: 0;
+  position: sticky;
+  color: white;
+}
+
+.scorediv{
+  visibility: hidden;
+}
+
+.scoredivshow{
+  visibility: visible;
+  padding-left: 20px;
+  font-weight: bold;
+}
+.score-btn{
+  height: 40px;margin-top: 30px;
+
+}

@@ -1,11 +1,11 @@
 [
     {   "id":1,
         "Question":"When did the first world cup occur?",
-        "a":"1932",
+        "a":"1930",
         "b":"1940",
         "c":"1950",
         "d":"1939",
-        "answer":"1932"
+        "answer":"1930"
     },
     {   "id":2,
         "Question":"Who is the current coach for Chelsea?",

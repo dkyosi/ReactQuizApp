@@ -22,7 +22,7 @@
         "b":"German",
         "c":"Brazil",
         "d":"France",
-        "answer":"Italy"
+        "answer":"Brazil"
     },
     {   "id":4,
         "Question":"Which is the capital city of Morrocco?",
@@ -80,7 +80,7 @@
         "a":"5",
         "b":"6",
         "c":"2",
-        "d":"7",
-        "answer":"7"
+        "d":"8",
+        "answer":"8"
     }
 ]
